@@ -4,13 +4,13 @@
 
 ## Screenshots
 
-![sample1](sample1).png)
+![](sample1.png)
 
-![sample2](sample2).png)
+![](sample2.png)
 
-![sample3](sample3).png)
+![](sample3.png)
 
-![sample4](sample4).png)
+![](sample4.png)
 
 ## Keywords
 windows, finder, find, search, searcher, plugins, files
